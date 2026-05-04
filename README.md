@@ -33,8 +33,7 @@ A high-performance, real-time online auction platform built with the MERN stack.
 - **Real-time**: Socket.io
 - **File Storage**: Cloudinary
 - **Email Service**: Resend
-- **Compression**: Gzip compression for faster API responses
-
+  
 ---
 
 ## 📂 Project Structure
@@ -165,6 +164,3 @@ VITE_AUCTION_API=http://localhost:3000/auction
 ## 🤝 Authors
 - **Devesh Ghadigaonkar**
 - **Aditya Bhangare**
-
-## 📄 License
-This project is licensed under the MIT License.
